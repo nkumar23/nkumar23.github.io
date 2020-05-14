@@ -29,7 +29,7 @@ let bloop;
 
 function preload() {
     song = loadSound('jamuary3.mp3');
-    bloop = loadSound('bloop.mp3');
+    bloop = loadSound('bloop.wav');
     
 }
 
